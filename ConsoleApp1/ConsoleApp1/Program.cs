@@ -6,9 +6,9 @@ static double CalculateAverage(int[] array)
         return 0;
 
     int sum = 0;
-    foreach (int num in array)
+    foreach (int bobo in array)
     {
-        sum += num;
+        sum += bobo;
     }
 
     return (double)sum / array.Length;
