@@ -6,3 +6,5 @@ int bob = 5;
 int rob = 10;
 
 Console.WriteLine(bob+rob);
+
+string hello = "hello";
